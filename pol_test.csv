@@ -1,5 +1,5 @@
-name,position,birthday,hometown,description,history,education,image,gender,,,,
-Nguyễn Xuân Phúc,Chủ tịch nước,20/7/1958,"Xã Quế Phú, huyện Quế Sơn, tỉnh Quảng Nam","Ngày sinh: 20/7/1954
+name,position,birthday,hometown,description,history,education,image,gender
+Nguyễn Xuân Phúc,Chủ tịch nước,20/7/1954,"Xã Quế Phú, huyện Quế Sơn, tỉnh Quảng Nam","Ngày sinh: 20/7/1954
 Quê quán: Xã Quế Phú, huyện Quế Sơn, tỉnh Quảng Nam
 Ủy viên Ban Chấp hành Trung ương Đảng các khóa X, XI, XII, XIII; Ủy viên Bộ Chính trị khóa XI, XII, XIII","1997 - 2001
 Phó Chủ tịch UBND tỉnh Quảng Nam
@@ -16,8 +16,8 @@ Phó Thủ tướng
 4/2016 - 4/2021
 Thủ tướng
 4/2021 - nay
-Chủ tịch nước""\r,Cử nhân Kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-xuan-phuc.png,Ông
-Võ Thị Ánh Xuân,Phó chủ tịch nước,8/1/1970,""Xã Thới Sơn, huyện Tịnh Biên, tỉnh An Giang","Ngày sinh: 8/1/1970
+Chủ tịch nước",Cử nhân Kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-xuan-phuc.png,Ông
+Võ Thị Ánh Xuân,Phó chủ tịch nước,8/1/1970,"Xã Thới Sơn, huyện Tịnh Biên, tỉnh An Giang","Ngày sinh: 8/1/1970
 Quê quán: Xã Thới Sơn, huyện Tịnh Biên, tỉnh An Giang
 Ủy viên Trung ương Đảng khóa XI (dự khuyết), XII, XIII","9/1992 - 7/1996
 Giáo viên Trường PTTH Mỹ Thới, thị xã Long Xuyên, An Giang
@@ -36,8 +36,8 @@ Phó Bí thư Tỉnh ủy An Giang
 10/2015 - 4/2021
 Bí thư Tỉnh ủy An Giang
 4/2021 - nay
-Phó chủ tịch nước""\r,Thạc sĩ Luật,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/vo-thi-xuan-anh.png,Bà
-Phạm Minh Chính,Thủ tướng,10/12/1958,""Xã Hoa Lộc, huyện Hậu Lộc, tỉnh Thanh Hoá","Ngày sinh: 10/12/1958
+Phó chủ tịch nước",Thạc sĩ Luật,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/vo-thi-xuan-anh.png,Bà
+Phạm Minh Chính,Thủ tướng,10/12/1958,"Xã Hoa Lộc, huyện Hậu Lộc, tỉnh Thanh Hoá","Ngày sinh: 10/12/1958
 Quê quán: Xã Hoa Lộc, huyện Hậu Lộc, tỉnh Thanh Hoá
 Ủy viên Trung ương Đảng khóa XI, XII, XIII; Ủy viên Bộ Chính trị khóa XII, XIII; Bí thư Trung ương Đảng khóa XII","9/1977 - 9/1984
 Học Đại học Ngoại ngữ Hà Nội; Đại học Xây dựng Bucarest, Rumani
@@ -92,7 +92,7 @@ Bộ trưởng Ngoại giao
 11/2013 - 4/2021
 Phó thủ tướng, Bộ trưởng Ngoại giao
 4/2021
-Phó thủ tướng",Thạc sĩ Luật pháp và Ngoại giao,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/pham-binh-minh.png,Ông,,,,
+Phó thủ tướng",Thạc sĩ Luật pháp và Ngoại giao,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/pham-binh-minh.png,Ông
 Lê Minh Khái,Phó Thủ tướng,10/12/1964,"Xã Vĩnh Phú Tây, huyện Phước Long, tỉnh Bạc Liêu","Ngày sinh: 10/12/1964
 Quê quán: Xã Vĩnh Phú Tây, huyện Phước Long, tỉnh Bạc Liêu
 Ủy viên Trung ương Đảng khóa XII, XIII; Ủy viên Ban Bí thư khóa XIII","7/1991 - 7/1995
@@ -116,7 +116,7 @@ Quê quán: Xã Vĩnh Phú Tây, huyện Phước Long, tỉnh Bạc Liêu
 10/2017 - 4/2021
  Tổng Thanh tra Chính phủ
 4/2021
-Phó thủ tướng",Thạc sĩ Kế toán kiểm toán,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/le-minh-khai.png,Ông,,,,
+Phó thủ tướng",Thạc sĩ Kế toán kiểm toán,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/le-minh-khai.png,Ông
 Vũ Đức Đam,Phó Thủ tướng,3/2/1963,"Xã Ngũ Hùng, huyện Thanh Miện, tỉnh Hải Dương","Ngày sinh: 3/2/1963
 Quê quán: Xã Ngũ Hùng, huyện Thanh Miện, tỉnh Hải Dương
 Ủy viên Trung ương Đảng khóa X (dự khuyết), XI, XII, XIII","10/1988 - 4/1993
@@ -146,19 +146,7 @@ Quê quán: Xã Ngũ Hùng, huyện Thanh Miện, tỉnh Hải Dương
 11/2013 - nay
 Phó thủ tướng
 10/2019 - 7/2020
- Phó thủ tướng, kiêm nhiệm Bí thư Ban Cán sự Đảng Bộ Y tế",Tiến sĩ Kinh tế thế giới và Quan hệ kinh tế quốc tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/vu-duc-dam.png,Ông,,,,
-Lê Văn Thành,Phó Thủ tướng,20/10/1962,"Xã Tân Liên, huyện Vĩnh Bảo, TP Hải Phòng","Ngày sinh: 20/10/1962
-Quê quán: Xã Tân Liên, huyện Vĩnh Bảo, TP Hải Phòng
-Ủy viên Trung ương Đảng khóa XII, XIII","7/2010 - 5/2014
- Phó chủ tịch UBND TP Hải Phòng
-5/2014 - 12/2014
- Phó bí thư Thành ủy Hải Phòng
-12/2014 - 10/2015
- Phó bí thư Thành ủy; Chủ tịch UBND TP Hải Phòng
-10/2015 - 4/2021
- Bí thư Thành ủy; Chủ tịch HĐND TP Hải Phòng
-4/2021
-Phó thủ tướng",Thạc sĩ Quản lý kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/le-van-thanh.png,Ông,,,,
+ Phó thủ tướng, kiêm nhiệm Bí thư Ban Cán sự Đảng Bộ Y tế",Tiến sĩ Kinh tế thế giới và Quan hệ kinh tế quốc tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/vu-duc-dam.png,Ông
 Nguyễn Hồng Diên,Bộ trưởng Công Thương,16/3/1965,"Xã Hồng Minh, huyện Hưng Hà, tỉnh Thái Bình","Ngày sinh: 16/3/1965
 Quê quán: Xã Hồng Minh, huyện Hưng Hà, tỉnh Thái Bình
 Ủy viên Trung ương Đảng khóa XII, XIII","6/1992 - 2/1996
@@ -182,7 +170,7 @@ Chủ tịch HĐND tỉnh Thái Bình
 5/2020 - 4/2021
  Phó trưởng ban Tuyên giáo Trung ương
 4/2021
-Bộ trưởng Công Thương","Tiến sĩ Quản lý hành chính công, Cử nhân Lịch sử, Cử nhân Kinh tế",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-hong-dien.png,Ông,,,,
+Bộ trưởng Công Thương","Tiến sĩ Quản lý hành chính công, Cử nhân Lịch sử, Cử nhân Kinh tế",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-hong-dien.png,Ông
 Đào Ngọc Dung,"Bộ trưởng Lao động, Thương binh và Xã hội",6/6/1962,"Xã Nhân Mỹ, huyện Lý Nhân, tỉnh Hà Nam","Ngày sinh: 6/6/1962
 Quê quán: Xã Nhân Mỹ, huyện Lý Nhân, tỉnh Hà Nam
 Ủy viên Trung ương Đảng khóa X, XI, XII, XIII","Trước 1989
@@ -212,7 +200,7 @@ Bí thư Tỉnh ủy; Chủ tịch HĐND tỉnh Yên Bái
 8/2011 - 4/2016
 Bí thư Đảng ủy khối các cơ quan Trung ương
 4/2016
-Bộ trưởng Lao động, Thương binh và Xã hội",Thạc sĩ Quản lý Hành chính công,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/dao-ngoc-dung.png,Ông,,,,
+Bộ trưởng Lao động, Thương binh và Xã hội",Thạc sĩ Quản lý Hành chính công,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/dao-ngoc-dung.png,Ông
 Nguyễn Chí Dũng,Bộ trưởng Kế hoạch và Đầu tư,5/8/1960,"Xã Mai Phụ, huyện Lộc Hà, tỉnh Hà Tĩnh","Ngày sinh: 5/8/1960
 Quê quán: Xã Mai Phụ, huyện Lộc Hà, tỉnh Hà Tĩnh
 Ủy viên Trung ương Đảng khóa XI, XII, XII","10/1977 - 6/1983
@@ -240,7 +228,7 @@ Quê quán: Xã Mai Phụ, huyện Lộc Hà, tỉnh Hà Tĩnh
 1/2014 - 4/2016
  Thứ trưởng Kế hoạch và Đầu tư
 4/2016
-Bộ trưởng Kế hoạch và Đầu tư",Tiến sĩ Kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-chi-dung.png,Ông,,,,
+Bộ trưởng Kế hoạch và Đầu tư",Tiến sĩ Kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-chi-dung.png,Ông
 Huỳnh Thành Đạt,Bộ trưởng Khoa học và Công nghệ,26/8/1962,"Xã An Định, huyện Mỏ Cày Nam, tỉnh Bến Tre","Ngày sinh: 26/8/1962
 Quê quán: Xã An Định, huyện Mỏ Cày Nam, tỉnh Bến Tre
 Ủy viên Trung ương Đảng khóa XII, XIII","1/1987 - 5/2004
@@ -250,7 +238,7 @@ Quê quán: Xã An Định, huyện Mỏ Cày Nam, tỉnh Bến Tre
 1/2017 - 11/2020
  Giám đốc Đại học Quốc gia TP HCM
 11/2020
- Bộ trưởng Khoa học và Công nghệ","Phó giáo sư, Tiến sĩ Vật lý",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/huynh-thanh-dat.png,Ông,,,,
+ Bộ trưởng Khoa học và Công nghệ","Phó giáo sư, Tiến sĩ Vật lý",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/huynh-thanh-dat.png,Ông
 Phan Văn Giang,"Đại tướng, Bộ trưởng Quốc phòng",14/10/1960,"Xã Hồng Quang, huyện Nam Trực, tỉnh Nam Định","Ngày sinh: 14/10/1960
 Quê quán: Xã Hồng Quang, huyện Nam Trực, tỉnh Nam Định
 Ủy viên Bộ Chính trị khóa XIII; Ủy viên Trung ương Đảng khóa XII, XIII","2010
@@ -266,7 +254,7 @@ Tổng Tham mưu trưởng Quân đội Nhân dân Việt Nam, Thứ trưởng Q
 4/2021
 Bộ trưởng Quốc phòng
 7/2021
-Được thăng quân hàm Đại tướng",Tiến sĩ Khoa học quân sự,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/phan-van-giang.png,Ông,,,,
+Được thăng quân hàm Đại tướng",Tiến sĩ Khoa học quân sự,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/phan-van-giang.png,Ông
 Trần Hồng Hà,Bộ trưởng Tài nguyên và Môi trường,19/4/1963,"Xã Kim Lộc, huyện Can Lộc, tỉnh Hà Tĩnh","Ngày sinh: 19/4/1963
 Quê quán: Xã Kim Lộc, huyện Can Lộc, tỉnh Hà Tĩnh
 Ủy viên Trung ương Đảng khóa XI (dự khuyết), XII, XIII","1992 - 1996
@@ -282,7 +270,7 @@ Quê quán: Xã Kim Lộc, huyện Can Lộc, tỉnh Hà Tĩnh
 7/2010 - 4/2016
  Thứ trưởng Tài nguyên và Môi trường
 4/2016
- Bộ trưởng Tài nguyên và Môi trường",Tiến sĩ,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/tran-hong-ha.png,Ông,,,,
+ Bộ trưởng Tài nguyên và Môi trường",Tiến sĩ,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/tran-hong-ha.png,Ông
 Lê Minh Hoan,Bộ trưởng NN&PTNT,19/1/1961,"Xã Mỹ Trà, TP Cao Lãnh, tỉnh Đồng Tháp","Ngày sinh: 19/1/1961
 Quê quán: Xã Mỹ Trà, TP Cao Lãnh, tỉnh Đồng Tháp
 Ủy viên Trung ương Đảng khóa XII, XIII","Trước 2004
@@ -300,7 +288,7 @@ Quê quán: Xã Mỹ Trà, TP Cao Lãnh, tỉnh Đồng Tháp
 9/2020 - 4/2021
  Thứ trưởng Nông nghiệp và Phát triển nông thôn
 4/2021
-Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn","Thạc sĩ Kinh tế, Kiến trúc sư",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/le-minh-hoan.png,Ông,,,,
+Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn","Thạc sĩ Kinh tế, Kiến trúc sư",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/le-minh-hoan.png,Ông
 Nguyễn Thị Hồng,Thống đốc Ngân hàng Nhà nước Việt Nam,27/3/1968,"Quận Cầu Giấy, TP Hà Nội","Ngày sinh: 27/3/1968
 Quê quán: Quận Cầu Giấy, TP Hà Nội
 Ủy viên Trung ương Đảng khóa XIII","1/1991 - 11/1993
@@ -316,7 +304,7 @@ Vụ trưởng Vụ Chính sách tiền tệ, Ngân hàng Nhà nước Việt Na
 8/2014 - 11/2020
 Phó thống đốc Ngân hàng Nhà nước Việt Nam
 11/2020
-Thống đốc Ngân hàng Nhà nước Việt Nam",Thạc sĩ kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-thi-hong.png,Bà,,,,
+Thống đốc Ngân hàng Nhà nước Việt Nam",Thạc sĩ kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-thi-hong.png,Bà
 Nguyễn Mạnh Hùng,Bộ trưởng Thông tin và Truyền thông,24/7/1962,"Phường Tân Hồng, thị xã Từ Sơn, tỉnh Bắc Ninh","Ngày sinh: 24/7/1962
 Quê quán: Phường Tân Hồng, thị xã Từ Sơn, tỉnh Bắc Ninh
 Ủy viên Trung ương Đảng khóa XII, XIII","7/1979 - 8/1980
@@ -344,7 +332,7 @@ Quê quán: Phường Tân Hồng, thị xã Từ Sơn, tỉnh Bắc Ninh
 7/2018 - 10/2018
  Quyền Bộ trưởng Thông tin và Truyền thông kiêm Phó trưởng Ban Tuyên giáo Trung ương
 10/2018
- Bộ trưởng Thông tin và Truyền thông kiêm Phó trưởng Ban Tuyên giáo Trung ương","Thạc sĩ Kinh tế, Thạc sĩ Kỹ thuật, Kỹ sư Viễn thông vô tuyến",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-manh-hung.png,Ông,,,,
+ Bộ trưởng Thông tin và Truyền thông kiêm Phó trưởng Ban Tuyên giáo Trung ương","Thạc sĩ Kinh tế, Thạc sĩ Kỹ thuật, Kỹ sư Viễn thông vô tuyến",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-manh-hung.png,Ông
 Nguyễn Văn Hùng,"Bộ trưởng Văn hóa, Thể thao và Du lịch",20/4/1961,"Xã Trung Nam, huyện Vĩnh Linh, tỉnh Quảng Trị","Ngày sinh: 20/4/1961
 Quê quán: Xã Trung Nam, huyện Vĩnh Linh, tỉnh Quảng Trị
 Ủy viên Trung ương Đảng khóa XII, XIII","1997-2010
@@ -356,7 +344,7 @@ Quê quán: Xã Trung Nam, huyện Vĩnh Linh, tỉnh Quảng Trị
 7/2020 - 4/2021
  Thứ trưởng Văn hóa, Thể thao và Du lịch
 4/2021
-Bộ trưởng Văn hóa, Thể thao và Du lịch",Thạc sĩ Triết học,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-van-hung.png,Ông,,,,
+Bộ trưởng Văn hóa, Thể thao và Du lịch",Thạc sĩ Triết học,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-van-hung.png,Ông
 Tô Lâm,"Đại tướng, Bộ trưởng Công an",10/7/1957,"Xã Nghĩa Trụ, huyện Văn Giang, tỉnh Hưng Yên","Ngày sinh: 10/7/1957
 Quê quán: Xã Nghĩa Trụ, huyện Văn Giang, tỉnh Hưng Yên
 Ủy viên Trung ương Đảng khóa XI, XII, XIII; Ủy viên Bộ Chính trị khóa XII, XIII","12/1988 - 1993
@@ -372,7 +360,7 @@ Thứ trưởng Công an
 4/2016
 Bộ trưởng Công an
 1/2019
-Được phong cấp hàm Đại tướng","Giáo sư Khoa học An ninh, Tiến sĩ Luật học",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/to-lam.png,Ông,,,,
+Được phong cấp hàm Đại tướng","Giáo sư Khoa học An ninh, Tiến sĩ Luật học",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/to-lam.png,Ông
 Hầu A Lềnh,"Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc",22/6/1973,"Xã Tả Van, huyện Sa Pa, tỉnh Lào Cai","Ngày sinh: 22/6/1973
 Quê quán: Xã Tả Van, huyện Sa Pa, tỉnh Lào Cai
 Ủy viên Trung ương Đảng khóa X (dự khuyết), XI (dự khuyết), XII, XIII","8/1986 - 2/1991
@@ -396,7 +384,7 @@ Quê quán: Xã Tả Van, huyện Sa Pa, tỉnh Lào Cai
 1/2018 - 4/2021
  Phó chủ tịch - Tổng Thư ký Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam
 4/2021
-Bộ trưởng, Chủ nhiệm Ủy ban dân tộc",Thạc sĩ,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/hau-a-lenh.png,Ông,,,,
+Bộ trưởng, Chủ nhiệm Ủy ban dân tộc",Thạc sĩ,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/hau-a-lenh.png,Ông
 Nguyễn Thanh Long,Bộ trưởng Y tế,3/9/1966,"Xã Bạch Long, huyện Giao Thủy, tỉnh Nam Định","Ngày sinh: 3/9/1966
 Quê quán: Xã Bạch Long, huyện Giao Thủy, tỉnh Nam Định
 Ủy viên Trung ương Đảng khóa XIII","6/2005 - 3/2008
@@ -412,7 +400,7 @@ Thứ trưởng Y tế
 7/2020
 Quyền Bộ trưởng Y tế
 11/2020
-Bộ trưởng Y tế","Giáo sư, Tiến sĩ y học",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-thanh-long.png,Ông,,,,
+Bộ trưởng Y tế","Giáo sư, Tiến sĩ y học",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-thanh-long.png,Ông
 Lê Thành Long,Bộ trưởng Tư pháp,23/9/1963,"Phường Quảng Thọ, thành phố Sầm Sơn, tỉnh Thanh Hóa","Ngày sinh: 23/9/1963
 Quê quán: Phường Quảng Thọ, thành phố Sầm Sơn, tỉnh Thanh Hóa
 Ủy viên Trung ương Đảng khóa XII, XIII","11/1987 - 12/1990
@@ -432,7 +420,7 @@ Quê quán: Phường Quảng Thọ, thành phố Sầm Sơn, tỉnh Thanh Hóa
 9/2015 - 4/2016
  Thứ trưởng Tư pháp
 4/2016
- Bộ trưởng Tư  pháp",Tiến sĩ Luật,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/le-thanh-long.png,Ông,,,,
+ Bộ trưởng Tư  pháp",Tiến sĩ Luật,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/le-thanh-long.png,Ông
 Nguyễn Thanh Nghị,Bộ trưởng Xây dựng,12/8/1976,"Phường 9, TP Cà Mau, tỉnh Cà Mau","Ngày sinh: 12/8/1976
 Quê quán: Phường 9, TP Cà Mau, tỉnh Cà Mau
 Ủy viên Trung ương Đảng khóa XI (dự khuyết), XII, XIII","2006 - 2011
@@ -446,7 +434,7 @@ Phó bí thư Tỉnh ủy, Phó Chủ tịch UBND tỉnh Kiên Giang
 10/2020 - 4/2021
  Thứ trưởng Xây dựng
 4/2021
-Bộ trưởng Xây dựng",Tiến sĩ Khoa học ngành Kỹ thuật xây dựng,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-thanh-nghi.png,Ông,,,,
+Bộ trưởng Xây dựng",Tiến sĩ Khoa học ngành Kỹ thuật xây dựng,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-thanh-nghi.png,Ông
 Đoàn Hồng Phong,Tổng thanh tra Chính phủ,2/1/1963,"Thị trấn Quỹ Nhất, huyện Nghĩa Hưng, tỉnh Nam Định","Ngày sinh: 2/1/1963
 Quê quán: Thị trấn Quỹ Nhất, huyện Nghĩa Hưng, tỉnh Nam Định
 Ủy viên Trung ương Đảng khóa XII, XIII","4/1986 - 10/1990
@@ -470,7 +458,7 @@ Quê quán: Thị trấn Quỹ Nhất, huyện Nghĩa Hưng, tỉnh Nam Định
 10/2015 - 4/2021
  Bí thư Tỉnh ủy Nam Định
 4/2021
-Tổng thanh tra Chính phủ",Thạc sĩ Kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/doan-hong-phong.png,Ông,,,,
+Tổng thanh tra Chính phủ",Thạc sĩ Kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/doan-hong-phong.png,Ông
 Hồ Đức Phớc,Bộ trưởng Tài chính,1/11/1963,"Xã Quỳnh Thạch, huyện Quỳnh Lưu, tỉnh Nghệ An","Ngày sinh: 1/11/1963
 Quê quán: Xã Quỳnh Thạch, huyện Quỳnh Lưu, tỉnh Nghệ An
 Ủy viên Trung ương Đảng khóa XII, XIII","9/2000 - 5/2004
@@ -490,7 +478,7 @@ Quê quán: Xã Quỳnh Thạch, huyện Quỳnh Lưu, tỉnh Nghệ An
 4/2016
  Tổng kiểm toán Nhà nước
 4/2021
-Bộ trưởng Tài chính",Tiến sĩ Kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/ho-duc-phoc.png,Ông,,,,
+Bộ trưởng Tài chính",Tiến sĩ Kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/ho-duc-phoc.png,Ông
 Bùi Thanh Sơn,Bộ trưởng Ngoại giao,16/10/1962,"Phường Tây Mỗ, quận Nam Từ Liêm, thành phố Hà Nội","Ngày sinh: 16/10/1962
 Quê quán: Phường Tây Mỗ, quận Nam Từ Liêm, thành phố Hà Nội
 Ủy viên Trung ương Đảng khóa XII, XIII","9/1987
@@ -508,7 +496,7 @@ Trợ lý Bộ trưởng Ngoại giao, Vụ trưởng Chính sách Đối ngoạ
 11/2009 - 4/2021
 Thứ trưởng Ngoại giao
 4/2021
-Bộ trưởng Ngoại giao",Thạc sĩ Quan hệ quốc tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/bui-thanh-son.png,Ông,,,,
+Bộ trưởng Ngoại giao",Thạc sĩ Quan hệ quốc tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/bui-thanh-son.png,Ông
 Trần Văn Sơn,"Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ",1/12/1961,"Xã Hải Anh, huyện Hải Hậu, tỉnh Nam Định","Ngày sinh: 1/12/1961
 Quê quán: Xã Hải Anh, huyện Hải Hậu, tỉnh Nam Định
 Ủy viên Trung ương Đảng khóa XII, XIII","Trước 2/2009
@@ -522,7 +510,7 @@ Bí thư Tỉnh ủy Điện Biên
 10/2020 - 4/2021
 Phó chủ nhiệm Văn phòng Chính phủ
 4/2021
-Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ","Thạc sĩ Quản trị kinh doanh, Kỹ sư Kinh tế xây dựng",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/tran-van-son.png,Ông,,,,
+Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ","Thạc sĩ Quản trị kinh doanh, Kỹ sư Kinh tế xây dựng",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/tran-van-son.png,Ông
 Nguyễn Kim Sơn,Bộ trưởng Giáo dục và Đào tạo,18/11/1966,"Xã Tân Trào, huyện Kiến Thụy, TP Hải Phòng","Ngày sinh: 18/11/1966
 Quê quán: Xã Tân Trào, huyện Kiến Thụy, TP Hải Phòng
 Ủy viên Trung ương Đảng khóa XIII","2003 - 2006
@@ -542,7 +530,7 @@ Giám đốc ĐH Quốc gia Hà Nội
 1/2019
 Giám đốc ĐH Quốc gia Hà Nội kiêm Chủ tịch Hội đồng ĐH Đại học Quốc gia Hà Nội
 4/2021
-Bộ trưởng Giáo dục và Đào tạo","Phó giáo sư, Tiến sĩ Ngữ văn",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-kim-son.png,Ông,,,,
+Bộ trưởng Giáo dục và Đào tạo","Phó giáo sư, Tiến sĩ Ngữ văn",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-kim-son.png,Ông
 Phạm Thị Thanh Trà,Bộ trưởng Nội vụ,21/1/1964,"Xã Nam Yên, huyện Nam Đàn, Nghệ An","Ngày sinh: 21/1/1964
 Quê quán: Xã Nam Yên, huyện Nam Đàn, Nghệ An
 Ủy viên Trung ương Đảng khóa XII, XIII","9/1985 - 9/1987
@@ -574,7 +562,7 @@ Quê quán: Xã Nam Yên, huyện Nam Đàn, Nghệ An
 9/2020
  Thứ trưởng Nội vụ, Phó ban Tổ chức Trung ương
 4/2021
-Bộ trưởng Nội Vụ","Thạc sĩ Quản lý giáo dục, Cử nhân Sư phạm",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/pham-thi-thanh-tra.png,Bà,,,,
+Bộ trưởng Nội Vụ","Thạc sĩ Quản lý giáo dục, Cử nhân Sư phạm",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/pham-thi-thanh-tra.png,Bà
 Nguyễn Văn Thể,Bộ trưởng Giao thông Vận tải,27/11/1966,"Xã Trường Xuân, huyện Tháp Mười, tỉnh Đồng Tháp","Ngày sinh: 27/11/1966
 Quê quán: Xã Trường Xuân, huyện Tháp Mười, tỉnh Đồng Tháp
 Ủy viên Trung ương Đảng khóa XI (dự khuyết), XII, XIII","12/1989 - 10/1992
@@ -602,7 +590,7 @@ Quê quán: Xã Trường Xuân, huyện Tháp Mười, tỉnh Đồng Tháp
 10/2015 - 10/2017
  Bí thư Tỉnh ủy Sóc Trăng
 10/2017
- Bộ trưởng Giao thông Vận tải",Tiến sĩ Khoa học kỹ thuật giao thông,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-van-the.png,Ông,,,,
+ Bộ trưởng Giao thông Vận tải",Tiến sĩ Khoa học kỹ thuật giao thông,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-van-the.png,Ông
 Vương Đình Huệ,Chủ tịch Quốc hội,15/3/1957,"Xã Nghi Xuân, huyện Nghi Lộc, tỉnh Nghệ An","Ngày sinh: 15/3/1957
 Quê quán: Xã Nghi Xuân, huyện Nghi Lộc, tỉnh Nghệ An
 Ủy viên Bộ Chính trị khóa XII, XIII; Ủy viên Trung ương Đảng khóa X, XI, XII, XIII","Trước 2001
@@ -624,7 +612,7 @@ Bí thư Thành ủy Hà Nội
 10/2020
 Tái đắc cử Bí thư thành ủy Hà Nội
 3/2021 - nay
-Chủ tịch Quốc hội","Giáo sư, Tiến sĩ Kinh tế",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/vuong-dinh-hue.png,Ông,,,,
+Chủ tịch Quốc hội","Giáo sư, Tiến sĩ Kinh tế",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/vuong-dinh-hue.png,Ông
 Trần Thanh Mẫn,Phó chủ tịch Quốc hội,12/8/1962,"Xã Thạnh Xuân, huyện Châu Thành A, tỉnh Hậu Giang","Ngày sinh: 12/8/1962
 Quê quán: Xã Thạnh Xuân, huyện Châu Thành A, tỉnh Hậu Giang
 Ủy viên Bộ Chính trị khóa XIII; Bí thư Trung ương Đảng khóa XII; Ủy viên Trung ương Đảng khóa X (dự khuyết), XI, XII, XIII","1/1988 - 7/1992
@@ -646,7 +634,7 @@ Phó Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam
 6/2017 - 4/2021
 Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam
 4/2021 - nay
-Phó Chủ tịch Quốc hội",Tiến sĩ Kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/tran-thanh-man.png,Ông,,,,
+Phó Chủ tịch Quốc hội",Tiến sĩ Kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/tran-thanh-man.png,Ông
 Nguyễn Đức Hải,Phó chủ tịch Quốc hội,29/7/1961,"Xã Tam Xuân, huyện Núi Thành, tỉnh Quảng Nam","Ngày sinh: 29/7/1961
 Quê quán: Xã Tam Xuân, huyện Núi Thành, tỉnh Quảng Nam
 Ủy viên Trung ương Đảng khóa XI, XII, XIII","12/2005 - 2/2008
@@ -660,7 +648,7 @@ Chủ nhiệm Ủy ban Tài chính, Ngân sách của Quốc hội
 4/2021 - 7/2021
 Phó chủ tịch Quốc hội, Chủ nhiệm Ủy ban Tài chính Ngân sách
 7/2021
-Phó chủ tịch Quốc hội",Thạc sĩ Kinh tế chuyên ngành Tài chính - Tín dụng,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-duc-hai.png,Ông,,,,
+Phó chủ tịch Quốc hội",Thạc sĩ Kinh tế chuyên ngành Tài chính - Tín dụng,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-duc-hai.png,Ông
 Nguyễn Khắc Định,Phó chủ tịch Quốc hội,3/1/1964,"Xã Hòa Bình, huyện Vũ Thư, tỉnh Thái Bình","Ngày sinh: 3/1/1964
 Quê quán: Xã Hòa Bình, huyện Vũ Thư, tỉnh Thái Bình
 Ủy viên Trung ương Đảng khóa XII, XIII","Trước 11/2008
@@ -676,8 +664,8 @@ Chủ nhiệm Ủy ban Pháp luật của Quốc hội
 10/2019 - 4/2021
 Bí thư Tỉnh ủy Khánh Hòa
 4/2021 - nay
-Phó Chủ tịch Quốc hội",Tiến sĩ Luật học,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-khac-dinh.png,Ông,,,,
-Trần Quang Phương,,6/5/1961,"Phường Phổ Vinh, thị xã Đức Phổ, tỉnh Quảng Ngãi","Ngày sinh: 6/5/1961
+Phó Chủ tịch Quốc hội",Tiến sĩ Luật học,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-khac-dinh.png,Ông
+Trần Quang Phương,Phó chủ tịch Quốc hội,6/5/1961,"Phường Phổ Vinh, thị xã Đức Phổ, tỉnh Quảng Ngãi","Ngày sinh: 6/5/1961
 Quê quán: Phường Phổ Vinh, thị xã Đức Phổ, tỉnh Quảng Ngãi
 Ủy viên Trung ương Đảng khóa XII, XIII","1/2003 - 10/2003
 Chủ nhiệm Chính trị, Sư đoàn 2, Quân khu 5
@@ -696,7 +684,7 @@ Chính ủy Quân khu 5
 5/2019 - 7/2021
 Phó Chủ nhiệm Tổng cục Chính trị Quân đội Nhân dân Việt Nam
 7/2021
-Phó chủ tịch Quốc hội",Cử nhân Xây dựng Đảng và chính quyền nhà nước,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/tran-quang-phuong.png,Ông,,,,
+Phó chủ tịch Quốc hội",Cử nhân Xây dựng Đảng và chính quyền nhà nước,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/tran-quang-phuong.png,Ông
 Nguyễn Thúy Anh,Chủ nhiệm Ủy ban Xã hội,7/12/1963,"Phường Tiên Cát, thành phố Việt Trì, tỉnh Phú Thọ","Ngày sinh: 7/12/1963
 Quê quán: Phường Tiên Cát, thành phố Việt Trì, tỉnh Phú Thọ
 Ủy viên Trung ương Đảng khóa XII, XIII","3/1987 - 9/1989
@@ -712,7 +700,7 @@ Chuyên viên, Phó Vụ trưởng, Vụ trưởng Vụ Các vấn đề xã h�
 7/2011 - 4/2016
 Phó Chủ nhiệm Ủy ban Về các vấn đề xã hội của Quốc hội
 4/2016 - nay
-Chủ nhiệm Ủy ban Xã hội của Quốc hội",Thạc sĩ Luật công và hành chính công,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-thuy-anh.png,Bà,,,,
+Chủ nhiệm Ủy ban Xã hội của Quốc hội",Thạc sĩ Luật công và hành chính công,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-thuy-anh.png,Bà
 Dương Thanh Bình,Trưởng Ban Dân nguyện,8/8/1961,"Xã Hồ Thị Kỷ, huyện Thới Bình, tỉnh Cà Mau","Ngày sinh: 8/8/1961
 Quê quán: Xã Hồ Thị Kỷ, huyện Thới Bình, tỉnh Cà Mau
 Ủy viên Trung ương Đảng khóa XI, XII, XIII","4/1993 - 4/1996
@@ -732,7 +720,7 @@ Phó Bí thư Thường trực Tỉnh ủy Cà Mau
 9/2010 - 6/2020
 Bí thư Tỉnh ủy Cà Mau
 6/2020 - nay
-Trưởng Ban Dân Nguyện (thuộc Ủy ban Thường vụ Quốc hội)",Cử nhân Kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/duong-thanh-binh.png,Ông,,,,
+Trưởng Ban Dân Nguyện (thuộc Ủy ban Thường vụ Quốc hội)",Cử nhân Kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/duong-thanh-binh.png,Ông
 Nguyễn Phú Cường,Chủ nhiệm Ủy ban Tài chính Ngân sách,19/6/1967,"Phường Tân Phước Khánh, thị xã Tân Uyên, tỉnh Bình Dương","Ngày sinh: 19/6/1967
 Quê quán: Phường Tân Phước Khánh, thị xã Tân Uyên, tỉnh Bình Dương
 Ủy viên Trung ương Đảng khóa XI (dự khuyết), XII, XIII","1989-1995
@@ -754,7 +742,7 @@ Bí thư Tỉnh ủy Đồng Nai
 6/2016 - 7/2021
 Bí thư Tỉnh ủy, Chủ tịch HĐND tỉnh Đồng Nai
 7/2021
-Chủ nhiệm Ủy ban Tài chính, Ngân sách của Quốc hội","Thạc sĩ Quản lý kinh tế, Cử nhân Tài chính Công nghiệp",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-phu-cuong.png,Ông,,,,
+Chủ nhiệm Ủy ban Tài chính, Ngân sách của Quốc hội","Thạc sĩ Quản lý kinh tế, Cử nhân Tài chính Công nghiệp",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-phu-cuong.png,Ông
 Bùi Văn Cường,Tổng thư ký Quốc hội,18/6/1965,"Xã Thăng Long, thị xã Kinh Môn, tỉnh Hải Dương","Ngày sinh: 18/6/1965
 Quê quán: Xã Thăng Long, thị xã Kinh Môn, tỉnh Hải Dương
 Ủy viên Trung ương Đảng khóa XI (dự khuyết), XII, XIII","1/1990 - 10/1997
@@ -776,7 +764,7 @@ Chủ tịch Tổng Liên đoàn Lao động Việt Nam
 7/2019 - 4/2021
 Bí thư Tỉnh ủy Đắk Lắk
 4/2021 - nay
-Tổng thư ký, Chủ nhiệm Văn phòng Quốc hội","Tiến sĩ Kỹ thuật Hàng hải, Thạc sĩ An toàn hàng hải, Kỹ sư điều hành tàu biển, Cử nhân Tiếng Anh",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/bui-van-cuong.png,Ông,,,,
+Tổng thư ký, Chủ nhiệm Văn phòng Quốc hội","Tiến sĩ Kỹ thuật Hàng hải, Thạc sĩ An toàn hàng hải, Kỹ sư điều hành tàu biển, Cử nhân Tiếng Anh",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/bui-van-cuong.png,Ông
 Vũ Hải Hà,Chủ nhiệm Ủy ban Đối ngoại,1/3/1969,"Xã Hải Anh, huyện Hải Hậu, Nam Định","Ngày sinh: 1/3/1969
 Quê quán: Xã Hải Anh, huyện Hải Hậu, Nam Định
 Ủy viên Trung ương Đảng khóa XIII","8/1995 - 5/2002
@@ -792,7 +780,7 @@ Vụ trưởng Đối ngoại, Văn phòng Quốc hội
 11/2013 - 4/2021
 Phó Chủ nhiệm Ủy ban Đối ngoại của Quốc hội
 4/2021 - nay
-Chủ nhiệm Ủy ban Đối ngoại của Quốc hội","Thạc sĩ Quản lý chính sách công, Cử nhân Luật, Cử nhân Ngôn ngữ",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/vu-hai-ha.png,Ông,,,,
+Chủ nhiệm Ủy ban Đối ngoại của Quốc hội","Thạc sĩ Quản lý chính sách công, Cử nhân Luật, Cử nhân Ngôn ngữ",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/vu-hai-ha.png,Ông
 Lê Quang Huy,Chủ nhiệm Ủy ban KHCN&MT,19/9/1966,"Xã Vân Canh, huyện Hoài Đức, TP Hà Nội","Ngày sinh: 19/9/1966
 Quê quán: Xã Vân Canh, huyện Hoài Đức, TP Hà Nội
 Ủy viên Trung ương Đảng khóa XIII","5/1989 - 12/1990
@@ -814,7 +802,7 @@ Phó Bí thư Tỉnh ủy Nghệ An
 11/2017 - 4/2021
 Phó Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội
 4/2021 - nay
-Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội","Tiến sĩ Công nghệ thông tin, Kỹ sư xây dựng dân dụng",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/le-quang-huy.png,Ông,,,,
+Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội","Tiến sĩ Công nghệ thông tin, Kỹ sư xây dựng dân dụng",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/le-quang-huy.png,Ông
 Lê Tấn Tới,Chủ nhiệm Ủy ban Quốc phòng An ninh,4/4/1969,"Phường Tân Thành, thành phố Cà Mau, tỉnh Cà Mau","Ngày sinh: 4/4/1969
 Quê quán: Phường Tân Thành, thành phố Cà Mau, tỉnh Cà Mau
 Ủy viên Trung ương Đảng khóa XIII","10/1986 - 7/1991
@@ -832,7 +820,8 @@ Cục trưởng Cục Tổ chức cán bộ Bộ Công an
 4/2020 - 7/2021
 Thứ trưởng Công an
 7/2021
-Chủ nhiệm Ủy ban Quốc phòng An ninh của Quốc hội",Tiến sĩ Tội phạm học và điều tra tội phạm,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/le-tan-toi.png,Ông,,,,
+Chủ nhiệm Ủy ban Quốc phòng An ninh của Quốc hội",Tiến sĩ Tội phạm học và điều tra tội phạm,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/le-tan-toi.png,Ông
+Nguyễn Văn A,Tổng cục chính trị,4/4/1975,TP Hà Nội,hádhs,kjkj,kjkj,kjkj,kjk
 Lê Thị Nga,Chủ nhiệm Ủy ban Tư pháp,20/12/1964,"Phường Bắc Hà, TP Hà Tĩnh, tỉnh Hà Tĩnh","Ngày sinh: 20/12/1964
 Quê quán: Phường Bắc Hà, TP Hà Tĩnh, tỉnh Hà Tĩnh
 Ủy viên Trung ương Đảng khóa XII, XIII","6/1986 - 5/1988
@@ -850,7 +839,7 @@ Phó Vụ trưởng Vụ pháp luật, Văn phòng Chủ tịch nước
 7/2007 - 4/2016
 Phó Chủ nhiệm Ủy ban Tư pháp của Quốc hội
 2016 - nay
-Chủ nhiệm Ủy ban Tư pháp của Quốc hội",Thạc sĩ Luật,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/le-thi-nga.png,Bà,,,,
+Chủ nhiệm Ủy ban Tư pháp của Quốc hội",Thạc sĩ Luật,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/le-thi-nga.png,Bà
 Nguyễn Đắc Vinh,Chủ nhiệm Ủy ban Văn hóa Giáo dục,25/11/1972,"Xã Quỳnh Dị, huyện Quỳnh Lưu, tỉnh Nghệ An","Ngày sinh: 25/11/1972
 Quê quán: Xã Quỳnh Dị, huyện Quỳnh Lưu, tỉnh Nghệ An
 Ủy viên Trung ương Đảng khóa XI (dự khuyết), XII, XIII","2/2001 - 8/2008
@@ -864,7 +853,7 @@ Bí thư Tỉnh ủy Nghệ An
 12/2019 - 4/2021
 Phó Chánh Văn phòng Trung ương Đảng
 4/2021 - nay
-Chủ nhiệm Ủy ban Văn hóa Giáo dục của Quốc hội","Phó giáo sư, Tiến sĩ Hóa học",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-dac-vinh.png,Ông,,,,
+Chủ nhiệm Ủy ban Văn hóa Giáo dục của Quốc hội","Phó giáo sư, Tiến sĩ Hóa học",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-dac-vinh.png,Ông
 Hoàng Thanh Tùng,Chủ nhiệm Ủy ban Pháp luật,25/12/1966,"Xã Lăng Thành, huyện Yên Thành, tỉnh Nghệ An","Ngày sinh: 25/12/1966
 Quê quán: Xã Lăng Thành, huyện Yên Thành, tỉnh Nghệ An
 Ủy viên Trung ương Đảng khóa XIII","Trước 5/2011
@@ -874,7 +863,7 @@ Công tác tại Vụ Pháp luật hành chính, hình sự Bộ Tư pháp, Cụ
 5/2016 - 11/2019
 Phó Chủ nhiệm Ủy ban Pháp luật của Quốc hội, Phó Tổng Thư ký Quốc hội
 11/2019 - nay
-Chủ nhiệm Ủy ban Pháp luật của Quốc hội",Thạc sĩ Luật học,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/hoang-thanh-tung.png,Ông,,,,
+Chủ nhiệm Ủy ban Pháp luật của Quốc hội",Thạc sĩ Luật học,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/hoang-thanh-tung.png,Ông
 Vũ Hồng Thanh,Chủ nhiệm Ủy ban Kinh tế,19/4/1962,"Xã Minh Tân, huyện Nam Sách, tỉnh Hải Dương","Ngày sinh: 19/4/1962
 Quê quán: Xã Minh Tân, huyện Nam Sách, tỉnh Hải Dương
 Ủy viên Trung ương Đảng khóa XII, XIII","Trước 10/2015
@@ -882,7 +871,7 @@ Phó trưởng Ban Quản lý các Khu công nghiệp và Đầu tư nước ngo
 10/2015 - 7/2016
 Phó Bí thư Tỉnh ủy Quảng Ninh
 7/2016 - nay
-Chủ nhiệm Ủy ban Kinh tế của Quốc hội",Kỹ sư Cơ khí,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/vu-hong-thanh.png,Ông,,,,
+Chủ nhiệm Ủy ban Kinh tế của Quốc hội",Kỹ sư Cơ khí,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/vu-hong-thanh.png,Ông
 Nguyễn Thị Thanh,Trưởng Ban công tác Đại biểu,10/2/1967,"Xã Yên Nhân, huyện Yên Mô, tỉnh Ninh Bình","Ngày sinh: 10/2/1967
 Quê quán: Xã Yên Nhân, huyện Yên Mô, tỉnh Ninh Bình
 Ủy viên Trung ương Đảng khóa XI (dự khuyết), XII, XIII","Trước 11/2010
@@ -896,7 +885,7 @@ Phó trưởng Ban Tổ chức Trung ương
 4/2020 - 4/2021
 Phó trưởng Ban Công tác đại biểu thuộc Ủy ban Thường vụ Quốc hội
 4/2021 - nay
-Trưởng Ban Công tác đại biểu (thuộc Ủy ban Thường vụ Quốc hội)","Thạc sĩ Quản trị kinh doanh, Đại học Thanh vận, Cử nhân Luật",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-thi-thanh.png,Bà,,,,
+Trưởng Ban Công tác đại biểu (thuộc Ủy ban Thường vụ Quốc hội)","Thạc sĩ Quản trị kinh doanh, Đại học Thanh vận, Cử nhân Luật",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-thi-thanh.png,Bà
 Y Thanh Hà Niê KĐăm,Chủ tịch Hội đồng Dân tộc,23/12/1973,"Thị trấn Ea Pốk, huyện Cư M'gar, tỉnh Đắk Lắk","Ngày sinh: 23/12/1973
 Quê quán: Thị trấn Ea Pốk, huyện Cư M'gar, tỉnh Đắk Lắk
 Ủy viên Trung ương Đảng khóa XII (dự khuyết), XIII","Trước 12/2004
@@ -916,7 +905,7 @@ Bí thư Thành ủy Buôn Ma Thuột
 2/2019 - 7/2021
 Bí thư Đảng ủy Khối Doanh nghiệp Trung ương
 7/2021
-Chủ tịch Hội đồng Dân tộc của Quốc hội","Thạc sĩ Quản lý công, Cử nhân Kinh tế đối ngoại, Cử nhân Chính trị chuyên ngành Công tác tổ chức",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/y-thanh-ha-nie-kdam.png,Ông,,,,
+Chủ tịch Hội đồng Dân tộc của Quốc hội","Thạc sĩ Quản lý công, Cử nhân Kinh tế đối ngoại, Cử nhân Chính trị chuyên ngành Công tác tổ chức",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/y-thanh-ha-nie-kdam.png,Ông
 Nguyễn Hòa Bình,Chánh án TANDTC,24/5/1958,"Xã Hành Đức, huyện Nghĩa Hành, tỉnh Quảng Ngãi","Ngày sinh: 24/5/1958
 Quê quán: Xã Hành Đức, huyện Nghĩa Hành, tỉnh Quảng Ngãi
 Ủy viên Bộ Chính trị khóa XIII; Bí thư Trung ương Đảng khóa XII, XIII; Ủy viên Trung ương Đảng khóa XI, XII, XIII","1980 - 1987
@@ -938,7 +927,7 @@ Bí thư Tỉnh ủy Quảng Ngãi
 7/2011
 Viện trưởng Viện Kiểm sát nhân dân tối cao
 4/2016 - nay
-Chánh án Tòa án Nhân dân Tối cao","Phó giáo sư, Tiến sĩ Luật",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-hoa-binh.png,Ông,,,,
+Chánh án Tòa án Nhân dân Tối cao","Phó giáo sư, Tiến sĩ Luật",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/nguyen-hoa-binh.png,Ông
 Lê Minh Trí,Viện trưởng Viện KSNDTC,1/11/1960,"Xã Tân Thông Hội, huyện Củ Chi, TP HCM","Ngày sinh: 1/11/1960
 Quê quán: Xã Tân Thông Hội, huyện Củ Chi, TP HCM
 Ủy viên Trung ương Đảng khóa XII, XIII","9/1978 - 9/1981
@@ -962,7 +951,7 @@ Phó Chủ tịch UBND TP HCM
 4 /2013 - 4/2016
 Phó Trưởng Ban Nội chính Trung ương
 4/2016 - nay
-Viện trưởng Viện Kiểm sát nhân dân tối cao","Cử nhân An ninh, Cử nhân Luật",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/le-minh-tri.png,Ông,,,,
+Viện trưởng Viện Kiểm sát nhân dân tối cao","Cử nhân An ninh, Cử nhân Luật",https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/le-minh-tri.png,Ông
 Trần Sỹ Thanh,Tổng kiểm toán Nhà nước,16/3/1971,"Xã Thanh Giang, huyện Thanh Chương, tỉnh Nghệ An","Ngày sinh: 16/3/1971
 Quê quán: Xã Thanh Giang, huyện Thanh Chương, tỉnh Nghệ An
 Ủy viên Trung ương Đảng khóa XII","2004 - 2007
@@ -984,5 +973,4 @@ Phó Ban Kinh tế Trung ương; Chủ tịch Hội đồng thành viên Tập �
 8/2020 - 4/2021
 Phó Chủ nhiệm Văn phòng Quốc hội
 4/2021
-Tổng kiểm toán Nhà nước",Thạc sĩ Kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/tran-sy-thanh.png,Ông,,,,
-Trần Ngọc Quang,Culi tại Ftech,20/01/1993,800 Trần Cao Vân,Du học sinh tại Hàn Quốc,,Thạc sĩ CNTT,,,,,,
+Tổng kiểm toán Nhà nước",Thạc sĩ Kinh tế,https://s1.vnecdn.net/vnexpress/j/v157/event/longform/thoisu/nhansulanhdaonhanuoc/avatar/tran-sy-thanh.png,Ông
